@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
 ![DeepFace](https://img.shields.io/badge/DeepFace-Emotion%20Detection-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 ## 📌 Overview
 
@@ -95,4 +95,4 @@ emotion-song-recommender/
 
 
 
-Would you like me to also make a **beautiful banner image** for this README so it instantly stands out on GitHub? That would make it way more attractive.
+
